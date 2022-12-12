@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\19735\Desktop\reverse engineering\reverse_engeneering_c_code\Project2\源.cpp(5,30): warning C4305: “初始化”: 从“int”到“unsigned short”截断
+C:\Users\19735\Desktop\reverse engineering\reverse_engeneering_c_code\Project2\源.cpp(5,24): warning C4309: “初始化”: 截断常量值
+  Project2.vcxproj -> C:\Users\19735\Desktop\reverse engineering\reverse_engeneering_c_code\Debug\Project2.exe
